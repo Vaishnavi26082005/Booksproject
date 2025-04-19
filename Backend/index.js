@@ -8,9 +8,7 @@ import userRoute from "./route/user.route.js";
 
 const app = express();
 
-
-app.use(cors({ origin: 'https://booksproject-black.vercel.app/' }));
-
+app.use(cors());
 app.use(express.json());
 
 dotenv.config();
