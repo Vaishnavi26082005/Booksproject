@@ -9,7 +9,7 @@ import userRoute from "./route/user.route.js";
 const app = express();
 
 
-app.use(cors({ origin: 'https://your-frontend.vercel.app' }));
+app.use(cors({ origin: 'https://booksproject-black.vercel.app/' }));
 
 app.use(express.json());
 
