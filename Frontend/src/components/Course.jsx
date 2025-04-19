@@ -7,7 +7,7 @@ function Course() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("https://booksproject-wp9r.onrender.com/book");
+        const res = await axios.get("https://booksproject-2.onrender.com/book");
         console.log(res.data);
         setBook(res.data);
       } catch (error) {
