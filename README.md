@@ -2,7 +2,7 @@
 
 A fully functional **online book store** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). 
 
-🔗 [Live Demo](https://booksproject-1.onrender.com/)
+🔗 [Live Demo](https://booksproject-ju16.onrender.com/)
 
 ---
 
